@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 https://github.com/mateusborgesgomes-collab/mateusborgesgomes-collab.git<
 
 
@@ -75,3 +76,11 @@ https://github.com/mateusborgesgomes-collab/mateusborgesgomes-collab.git<
 
 
 
+=======
+https://www.linkedin.com/in/mateus-borges-gomes-2bb2ab38b/
+
+
+/academicos -> projetos academicos
+
+/ pessoal -> projetos pessoais
+>>>>>>> 3cdb3bf1c682151f8b435b2dc06b0c9880a35c67
